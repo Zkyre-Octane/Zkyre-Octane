@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mauro Rocha 👋
 
-<!--
-**Zkyre-Octane/Zkyre-Octane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student at SVCTE  
+🔐 Focused on Penetration Testing & Offensive Security  
+💻 Practicing with TryHackMe, Cisco Networking Academy, and self-directed labs  
+🚀 Building skills, one exploit at a time  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Current Focus
+- Penetration testing labs and simulations  
+- Vulnerability assessment & exploitation techniques  
+- Network and system security (Linux & Windows)  
+- Offensive security tools: Nmap, Burp Suite, Metasploit, Wireshark, Hydra, John-the-Ripper.  
+
+---
+
+## 📂 Projects & Labs
+- **[Scripts & Cheatsheets](#)** → Bash/Python scripts and useful command references  
+- **[Lab Environments](#)** → Notes on virtualization, networking, and monitoring setups  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/mauro-ponce369
+---
+> *“Always learning, always hacking ethically.”*
