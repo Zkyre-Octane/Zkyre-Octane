@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Projects & Labs
-- **[Scripts & Cheatsheets](#)** → Bash/Python scripts and useful command references  
+- **[https://github.com/Zkyre-Octane/nmap-scripts/tree/main](#)** → Bash Nmap scripts and useful command references  
 - **[Lab Environments](#)** → Notes on virtualization, networking, and monitoring setups  
 
 ---
