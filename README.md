@@ -14,8 +14,7 @@ Building skills, one exploit at a time
 
 ---
 
-## Projects & Labs
-- **[https://github.com/Zkyre-Octane/nmap-scripts/tree/main](#)** → Bash Nmap scripts and useful command references  
+## Projects & Labs 
 - **[Lab Environments](#)** → Notes on virtualization, networking, and monitoring setups  
 
 ---
