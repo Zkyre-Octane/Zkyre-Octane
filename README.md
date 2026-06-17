@@ -1,6 +1,5 @@
 # Hi, I'm Mauro Rocha 
 
-Cybersecurity student at SVCTE  
 Focused on Penetration Testing & Offensive Security  
 Practicing with TryHackMe, Cisco Networking Academy, and self-directed labs    
 
