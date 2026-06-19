@@ -13,7 +13,9 @@ Practicing with TryHackMe, Cisco Networking Academy, and self-directed labs
 ---
 
 ## Projects & Labs 
-- **[Lab Environments](#)** → Notes on virtualization, networking, and monitoring setups  
+- RavenOS-Core
+- RavenOS-Umbra
+- RavenNode 
 
 ---
 
