@@ -1,20 +1,14 @@
-<div align="center">
-'''text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣏⠉⠩⠥⢄⡔⠉⢸⣦⠤⠄⢀⣀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢹⢰⠀⢰⡟⠀⠰⠘⣟⣳⡉⠓⠒⠪⠴⣂⠄⡀⠀⠀
-⠀⠀⠀⠀⠀⠈⡄⡆⣦⣿⣾⡻⣿⣾⡿⣃⠀⠀⠀⠀⠀⠈⠉⠲⠄
-⠀⠀⠀⠀⠀⠀⠃⢀⡗⣿⡯⡛⢫⣽⣿⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠸⠈⣷⣿⣿⣭⣤⣿⣃⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢠⠔⢘⣆⢻⣳⡻⣿⣿⡧⠉⠉⡸⠒⣢⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⠿⠠⣼⣿⠜⣿⡚⢽⣿⣡⡪⣸⣣⠀⠈⢻⠀⠀⠀⠀⠀
-⠀⠀⡔⣇⣤⣶⡟⠙⣧⢫⢚⣲⣿⣿⣗⢊⣤⡶⡄⢈⠇⠀⠀⠀⠀
-⠀⢸⠰⢈⣿⣦⡔⣾⣿⣿⠏⢠⣽⠟⡡⠂⢹⣷⠇⢸⠇⠀⠀⠀⠀
-⢠⢃⣥⣼⠋⡟⡉⠘⣿⡏⡿⠿⣿⣍⠠⣀⢹⢻⠂⡏⠰⠀⠀⠀⠀
-⢸⠊⢉⠌⢸⠱⡴⣷⣾⣿⢰⣾⣀⣀⠨⢋⣿⠀⢴⡇⡄⠀⠀⠀⠀
-⠈⠣⣻⠶⠷⠀⢠⠈⣇⢸⡚⣋⣩⠐⠁⣿⣩⣊⠌⢁⡇⠀⠀⠀⠀
-⠀⠀⠀⠉⠉⣷⣶⣇⣿⣿⢧⢹⠫⡄⣠⣿⣟⠓⠋⡌⠇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢹⣹⣿⢿⣿⣿⡜⣽⡟⢸⠟⢠⣴⢢⣿⠀⠀⠀⠀⠀
+````md
+```text
+                    .--.
+                   |o_o |        Mauro Rocha
+                   |:_/ |        -------------------------
+                  //   \ \       OS      : Linux
+                 (|     | )      Host    : Security Lab
+                /'\_   _/`\      Kernel  : Offensive Security
+                \___)=(___/      Shell   : bash / zsh
+                                 Focus   : Penetration Testing
+                                 Status  : Learning & Building
 ````
 
 # `~/mauro`
@@ -55,13 +49,13 @@
 
 ```text
 RavenOS-Core
-└── Core components of the RavenOS ecosystem
+└── original firmware of the RavenOS ecosystem
 
 RavenOS-Umbra
-└── Experimental security / offensive tooling
+└── next-generation firmware / reliability and ui focused
 
 RavenOS-Whisper
-└── Experimental communication / security project
+└── Experimental UGV platform / RF project
 ```
 
 ## `whoami`
@@ -90,15 +84,5 @@ $ echo $CURRENT_STATUS
 LinkedIn → www.linkedin.com/in/mauro-ponce369
 ```
 
----
-
-```text
-                    ┌─────────────────────────┐
-                    │       SYSTEM READY      │
-                    │                         │
-                    │   Learn. Build. Break.  │
-                    │        Repeat.          │
-                    └─────────────────────────┘
-```
 
 
