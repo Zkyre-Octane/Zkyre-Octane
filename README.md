@@ -2,7 +2,7 @@
                     .--.
                    |o_o |        Mauro Rocha
                    |:_/ |        -------------------------
-                  //   \ \       OS      : Linux
+                  //   \ \       OS      : Debian
                  (|     | )      Host    : Security Lab
                 /'\_   _/`\      Kernel  : Offensive Security
                 \___)=(___/      Shell   : bash / zsh
