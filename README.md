@@ -95,9 +95,4 @@ LinkedIn → www.linkedin.com/in/mauro-ponce369
                     └─────────────────────────┘
 ```
 
-```
 
-This keeps your original information but gives it much more of that **terminal / Linux hacker-lab aesthetic**, while still being readable on GitHub.
-
-I’d personally use **less “hacker cliché” and more authentic Linux output** if this is going on your main professional GitHub. The `fastfetch --security` / `whoami` sections make it feel like a terminal without making the README look like an old-school 2010 hacker page.
-```
