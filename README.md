@@ -1,13 +1,19 @@
 ````md
-                    .--.
-                   |o_o |        Mauro Rocha
-                   |:_/ |        -------------------------
-                  //   \ \       OS      : Debian
-                 (|     | )      Host    : Security Lab
-                /'\_   _/`\      Kernel  : Offensive Security
-                \___)=(___/      Shell   : bash / zsh
-                                 Focus   : Penetration Testing
-                                 Status  : Learning & Building
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Mauro Rocha
+⠀⠀⠀⠀⠀⣏⠉⠩⠥⢄⡔⠉⢸⣦⠤⠄⢀⣀⠀⠀⠀⠀⠀⠀⠀    ─────────────────────────
+⠀⠀⠀⠀⠀⢹⢰⠀⢰⡟⠀⠰⠘⣟⣳⡉⠓⠒⠪⠴⣂⠄⡀⠀⠀    OS      : Linux
+⠀⠀⠀⠀⠀⠈⡄⡆⣦⣿⣾⡻⣿⣾⡿⣃⠀⠀⠀⠀⠀⠈⠉⠲⠄    Host    : Security Lab
+⠀⠀⠀⠀⠀⠀⠃⢀⡗⣿⡯⡛⢫⣽⣿⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀    Kernel  : Offensive Security
+⠀⠀⠀⠀⠀⠀⠸⠈⣷⣿⣿⣭⣤⣿⣃⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀    Shell   : bash / zsh
+⠀⠀⠀⠀⢠⠔⢘⣆⢻⣳⡻⣿⣿⡧⠉⠉⡸⠒⣢⡀⠀⠀⠀⠀⠀    Focus   : Penetration Testing
+⠀⠀⠀⣠⠿⠠⣼⣿⠜⣿⡚⢽⣿⣡⡪⣸⣣⠀⠈⢻⠀⠀⠀⠀⠀    Status  : Learning & Building
+⠀⠀⡔⣇⣤⣶⡟⠙⣧⢫⢚⣲⣿⣿⣗⢊⣤⡶⡄⢈⠇⠀⠀⠀⠀
+⠀⢸⠰⢈⣿⣦⡔⣾⣿⣿⠏⢠⣽⠟⡡⠂⢹⣷⠇⢸⠇⠀⠀⠀⠀
+⢠⢃⣥⣼⠋⡟⡉⠘⣿⡏⡿⠿⣿⣍⠠⣀⢹⢻⠂⡏⠰⠀⠀⠀⠀
+⢸⠊⢉⠌⢸⠱⡴⣷⣾⣿⢰⣾⣀⣀⠨⢋⣿⠀⢴⡇⡄⠀⠀⠀⠀
+⠈⠣⣻⠶⠷⠀⢠⠈⣇⢸⡚⣋⣩⠐⠁⣿⣩⣊⠌⢁⡇⠀⠀⠀⠀
+⠀⠀⠀⠉⠉⣷⣶⣇⣿⣿⢧⢹⠫⡄⣠⣿⣟⠓⠋⡌⠇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢹⣹⣿⢿⣿⣿⡜⣽⡟⢸⠟⢠⣴⢢⣿⠀⠀⠀
 ````
 
 # `~/mauro`
